@@ -77,7 +77,7 @@ Find answers to your question using Wolfram API.
 
 ## Waifu.im
 Get images from [Waifu.im](https://waifu.im) API.
-- [Download](https://github.com/scrazzz/AliucordPlugins/blob/builds/Waifu.im.zip?raw=true)
+- [Download](https://github.com/spacewd69/AliucordPlugins/blob/builds/Waifu.im.zip?raw=true)
 
 -----
 
