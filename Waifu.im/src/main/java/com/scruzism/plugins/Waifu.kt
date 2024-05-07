@@ -1,4 +1,4 @@
-package com.scruzism.plugins
+package org.neocities.spaceblog.patch.plugins
 
 import android.content.Context
 
